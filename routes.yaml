@@ -1,0 +1,11 @@
+# Add this to your ghost installation
+
+routes:
+    /: home # template for homepage `home.hbs`
+  
+  collections:
+    /project/: # a collection called movie
+      permalink: /projects/{slug}/
+      template: project # template `project.hbs`
+      filter: tag:project # fetch data from a tag:movie
+      data: tag.project # have access to all data & meta data from tag
