@@ -1,10 +1,10 @@
 {
-    "name": "fizzy",
-    "description": "A tasty blogging theme for Ghost.",
-    "version": "1.3.2",
+    "name": "Fuxyz",
+    "description": "Based on Fizzy 1.3 from Yuzhang Huang",
+    "version": "1.0",
     "author": {
-        "name": "Yuzhang Huang",
-        "email": "huangyuzhang@live.cn"
+        "name": "rui hildt",
+        "email": "ruihildt@protonmail.com"
     },
     "engines": {
         "ghost": ">=3.0.0",
